@@ -14,6 +14,6 @@ public class HolidayMoney {
 		System.out.print("Money spent on gifts: \u20ac");
 		moneyLeft -= Math.round(sc.nextDouble()*100);
 		System.out.printf("Money left: \u20ac%,.2f%n", moneyLeft/100.0);
-		System.out.print("");
+		sc.close();
 	} // End main
 } // End class
