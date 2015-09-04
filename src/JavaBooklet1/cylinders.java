@@ -1,5 +1,6 @@
 package JavaBooklet1;
 
+import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class cylinders {
@@ -14,10 +15,11 @@ public class cylinders {
 		String units = sc.nextLine();
 		sc.close();
 		
+		DecimalFormat df = new DecimalFormat("#.####");
 		double v = Math.PI*Math.pow(r, 2)*h;
 		double sa = Math.PI*Math.pow(r, 2);
 
-		System.out.println("The volume is " + v + " cubic " + units);
-		System.out.println("The surface area is " + sa + " square " + units);
+		System.out.println("The volume is " + df.format(v) + " cubic " + units);
+		System.out.println("The surface area is " + df.format(sa) + " square " + units);
 	} // Main
 } // Class
