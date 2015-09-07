@@ -1,0 +1,18 @@
+Four prisoners are arrested for a crime, but the jail is full and the jailer has nowhere to put them. He eventually comes up with the solution of giving them a puzzle. If they succeed they can go free but if they fail they are executed.
+
+The jailer makes three of the men sit in a line. The fourth man is put behind a screen. All the men are given hats. The jailor explains that there are two red hats and two blue hats. The prisoners can see the hats in front of them but not on themselves or behind. The fourth man behind the screen cannot see or be seen by any other prisoner. No communication between the men is allowed.
+
+If any prisoner can figure out and say out loud to the jailer what colour hat he has on his head all four prisoners go free. The puzzle is to find how the prisoners can escape. 
+
+FACTS:
+Person A can see the hats of B and C.
+Person B can see the hat of C
+Person C can see no hats.
+Person D can see no hats.
+There are two red and two blue hats
+
+Solutions:
+If Person A sees two hats of the same colour, he can conclude that his hat must be of the other colour. He calls out the colour of his hat and all three walk free.
+
+If Person A sees two hats of opposing colours, he cannot conclude the colour of his hat, as it can be either colour. Person B knows, from this, that his and C's hat
+are opposing colours, and thus can call the colour of his hat and all three walk free.
