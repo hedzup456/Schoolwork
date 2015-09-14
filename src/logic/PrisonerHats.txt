@@ -11,7 +11,7 @@ Person C can see no hats.
 Person D can see no hats.
 There are two red and two blue hats
 
-Solutions:
+SOLUTIONS:
 If Person A sees two hats of the same colour, he can conclude that his hat must be of the other colour. He calls out the colour of his hat and all three walk free.
 
 If Person A sees two hats of opposing colours, he cannot conclude the colour of his hat, as it can be either colour. Person B knows, from this, that his and C's hat
