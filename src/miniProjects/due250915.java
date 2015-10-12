@@ -24,7 +24,7 @@ public class due250915 {
 		} catch (java.util.InputMismatchException error){ // If the user enters something not an int
 			System.out.println("Users always break stuff.");
 		} finally {
-			if (usersNumber != 7){
+			if (usersNumber != 7){ // Its nice to guarantee the user has no choice!
 				System.out.println("Your number is 7. I don't care.");
 				usersNumber = 7;
 			} // if
