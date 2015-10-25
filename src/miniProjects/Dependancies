@@ -1,4 +1,4 @@
 DEPENDANCIES:
 
 due250915 None
-MainMenu_Mineproject2 DieRoller, FileOperations, PlayerCharacter. Note that saving and loading player characters requires a specific file path. This is customised for my eclipse setup.
+MainMenu_Mineproject2 DieRoller, FileOperations, PlayerCharacter. Note that saving and loading player characters requires a specific file path. This is customised for my eclipse setup. This is also not the current development version - this is located at https://github.com/hedzup456/RandomStuff/tree/master/src/dndMiscResources
