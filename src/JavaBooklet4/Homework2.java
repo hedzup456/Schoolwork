@@ -17,7 +17,9 @@ public class Homework2 {
 		int l  = data.length;
 		int[] result = new int[l];
 	    // copy the data in reversed order to result
-	    for ( int j=0; j < l; j++) result[j] = data[(l-1)-j];
+	    for ( int j=0; j < l; j++) {
+	    	result[j] = data[(l-1)-j];
+	    }
 	    // write out the result
 	    for ( int j=0; j < result.length; j++)System.out.println(result[j]);
 
