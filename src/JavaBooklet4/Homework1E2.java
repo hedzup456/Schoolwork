@@ -7,7 +7,7 @@ package JavaBooklet4;
  * @author Richard
  *
  */
-public class Homework2 {
+public class Homework1E2 {
 
 	/**
 	 * @param args

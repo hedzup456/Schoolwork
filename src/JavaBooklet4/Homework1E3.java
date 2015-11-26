@@ -1,6 +1,6 @@
 package JavaBooklet4;
 
-public class Homework3{
+public class Homework1E3{
 	public static void main ( String[] args )  {
 	    int[] signal  = {5, 5, 4, 5, 6, 6, 7, 6, 5, 4, 1, 4};
 	    int[] smooth = new int[signal.length];
