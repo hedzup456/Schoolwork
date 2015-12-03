@@ -35,6 +35,7 @@ public class Homework1E4 {
 		   }
 		   public static int apTerm(int a, int d, int n){
 			   int res = a + (n-1)*d;
+			   System.out.println("Hello!");
 			   return res;
 		   }
 }
