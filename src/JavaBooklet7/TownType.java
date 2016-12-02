@@ -24,7 +24,7 @@ public class TownType {
 		
 	}
 	public String toString(){
-		return
+		return "";
 	}
 	public String name, county;
 	public int population, area;

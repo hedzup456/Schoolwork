@@ -2,8 +2,6 @@ package JavaBooklet8;
 
 import java.util.Scanner;
 
-import org.omg.Messaging.SyncScopeHelper;
-
 public class Homework1 {
 	private static int[] freqs = new int[26];
 	
